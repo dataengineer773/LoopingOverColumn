@@ -1,0 +1,2 @@
+We want to iterate over every element in a column and apply some action, We can treat a pandas column like any other sequence in Python, and loop over it using the standard Python syntax In addition to loops (often called for loops), we can also use list comprehensions
+Despite the temptation to fall back on for loops, a more Pythonic solution would use pandas’ apply method, described in the next recipe.
